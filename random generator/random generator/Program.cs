@@ -8,7 +8,7 @@ namespace random_generator
         {
             // basic information
             int num2 = 0;
-            Console.WriteLine("Welcome to the RandoMizer, Made by knighter, 2020\r");
+            Console.WriteLine("Welcome to the RandoMizer, Made by knighter, 2021\r");
             Console.WriteLine("--------------------------------------------------------------");
 
             //mechanism
@@ -23,7 +23,7 @@ namespace random_generator
             Console.WriteLine(RDresult);
             // end result
             Console.WriteLine("That number that appeared was randomly generated.\r");
-            Console.WriteLine("Press the E key to close this app");
+            Console.WriteLine("Press any key to close this app.");
             Console.ReadKey();
         }
     }
